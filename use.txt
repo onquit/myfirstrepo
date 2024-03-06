@@ -1,1 +1,3 @@
 #i will use this to use fetch and git merge
+#edited 
+#use to use commit -a
